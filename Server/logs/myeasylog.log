@@ -1,0 +1,111 @@
+2016-08-22 19:46:52,822 INFO  EXECUTING
+2016-08-22 19:46:52,823 FATAL CRASH HANDLED; Application has crashed due to [SIGSEGV] signal
+2016-08-22 19:46:52,823 WARN  Aborting application. Reason: Fatal log at [./../lib/third_party/easylogging++.h:5627]
+2016-08-22 19:48:54,936 INFO  EXECUTING
+2016-08-22 19:48:54,937 FATAL CRASH HANDLED; Application has crashed due to [SIGSEGV] signal
+2016-08-22 19:48:54,937 WARN  Aborting application. Reason: Fatal log at [./../lib/third_party/easylogging++.h:5627]
+2016-08-22 19:50:17,585 INFO  EXECUTING
+2016-08-22 19:50:17,586 FATAL CRASH HANDLED; Application has crashed due to [SIGSEGV] signal
+2016-08-22 19:50:17,586 WARN  Aborting application. Reason: Fatal log at [./../lib/third_party/easylogging++.h:5627]
+2016-08-22 19:51:05,331 INFO  EXECUTING
+2016-08-22 19:51:05,331 FATAL CRASH HANDLED; Application has crashed due to [SIGSEGV] signal
+2016-08-22 19:51:05,331 WARN  Aborting application. Reason: Fatal log at [./../lib/third_party/easylogging++.h:5627]
+2016-08-22 19:51:19,603 INFO  EXECUTING
+2016-08-22 19:51:19,603 FATAL CRASH HANDLED; Application has crashed due to [SIGSEGV] signal
+2016-08-22 19:51:19,603 WARN  Aborting application. Reason: Fatal log at [./../lib/third_party/easylogging++.h:5627]
+2016-08-22 19:55:30,207 INFO  EXECUTING
+2016-08-22 20:03:03,288 INFO  EXECUTING
+2016-08-22 20:03:44,120 INFO  EXECUTING
+2016-08-22 20:04:22,441 FATAL CRASH HANDLED; Application has crashed due to [SIGINT] signal
+2016-08-22 20:04:22,441 WARN  Aborting application. Reason: Fatal log at [./../lib/third_party/easylogging++.h:5627]
+2016-08-22 20:04:29,018 INFO  EXECUTING
+2016-08-22 20:05:20,150 INFO  EXECUTING
+2016-08-22 20:05:33,961 FATAL CRASH HANDLED; Application has crashed due to [SIGINT] signal
+2016-08-22 20:05:33,961 WARN  Aborting application. Reason: Fatal log at [./../lib/third_party/easylogging++.h:5627]
+2016-08-22 20:05:39,805 INFO  EXECUTING
+2016-08-22 20:06:02,718 FATAL CRASH HANDLED; Application has crashed due to [SIGINT] signal
+2016-08-22 20:06:02,718 WARN  Aborting application. Reason: Fatal log at [./../lib/third_party/easylogging++.h:5627]
+2016-08-22 20:07:07,172 INFO  EXECUTING
+2016-08-22 20:07:09,563 FATAL CRASH HANDLED; Application has crashed due to [SIGINT] signal
+2016-08-22 20:07:09,563 WARN  Aborting application. Reason: Fatal log at [./../lib/third_party/easylogging++.h:5627]
+2016-08-22 20:07:25,802 INFO  EXECUTING
+2016-08-22 20:07:27,068 FATAL CRASH HANDLED; Application has crashed due to [SIGINT] signal
+2016-08-22 20:07:27,069 WARN  Aborting application. Reason: Fatal log at [./../lib/third_party/easylogging++.h:5627]
+2016-08-22 20:07:38,692 INFO  EXECUTING
+2016-08-22 20:08:31,299 FATAL CRASH HANDLED; Application has crashed due to [SIGINT] signal
+2016-08-22 20:08:31,299 WARN  Aborting application. Reason: Fatal log at [./../lib/third_party/easylogging++.h:5627]
+2016-08-22 20:08:35,594 INFO  EXECUTING
+2016-08-22 20:09:24,762 FATAL CRASH HANDLED; Application has crashed due to [SIGINT] signal
+2016-08-22 20:09:24,762 WARN  Aborting application. Reason: Fatal log at [./../lib/third_party/easylogging++.h:5627]
+2016-08-22 20:10:09,541 INFO  EXECUTING
+2016-08-22 20:10:16,972 FATAL CRASH HANDLED; Application has crashed due to [SIGINT] signal
+2016-08-22 20:10:16,972 WARN  Aborting application. Reason: Fatal log at [./../lib/third_party/easylogging++.h:5627]
+2016-08-22 20:10:25,625 INFO  EXECUTING
+2016-08-22 20:10:50,823 FATAL CRASH HANDLED; Application has crashed due to [SIGINT] signal
+2016-08-22 20:10:50,823 WARN  Aborting application. Reason: Fatal log at [./../lib/third_party/easylogging++.h:5627]
+2016-08-22 20:10:59,308 INFO  EXECUTING
+2016-08-22 20:11:01,691 FATAL CRASH HANDLED; Application has crashed due to [SIGINT] signal
+2016-08-22 20:11:01,691 WARN  Aborting application. Reason: Fatal log at [./../lib/third_party/easylogging++.h:5627]
+2016-08-22 20:11:07,272 INFO  EXECUTING
+2016-08-22 20:11:10,051 FATAL CRASH HANDLED; Application has crashed due to [SIGINT] signal
+2016-08-22 20:11:10,051 WARN  Aborting application. Reason: Fatal log at [./../lib/third_party/easylogging++.h:5627]
+2016-08-22 20:13:44,378 INFO  EXECUTING
+2016-08-22 20:13:49,340 FATAL CRASH HANDLED; Application has crashed due to [SIGINT] signal
+2016-08-22 20:13:49,340 WARN  Aborting application. Reason: Fatal log at [./../lib/third_party/easylogging++.h:5627]
+2016-08-22 23:29:09,413 INFO  EXECUTING
+2016-08-22 23:33:24,060 INFO  EXECUTING
+2016-08-22 23:33:24,061 INFO  Accepting HTTP socket
+2016-08-22 23:47:59,743 INFO  EXECUTING
+2016-08-22 23:47:59,744 INFO  Accepting HTTP socket
+2016-08-23 00:16:16,255 INFO  EXECUTING
+2016-08-23 00:16:16,256 INFO  Accepting HTTP socket
+2016-08-23 00:16:16,256 INFO  Accepted HTTP socket
+2016-08-23 00:19:32,313 FATAL CRASH HANDLED; Application has crashed due to [SIGINT] signal
+2016-08-23 00:19:32,313 WARN  Aborting application. Reason: Fatal log at [./../lib/third_party/easylogging++.h:5627]
+2016-08-23 00:19:44,368 INFO  EXECUTING
+2016-08-23 00:19:44,369 ERROR BIND ERROR 48
+2016-08-23 00:19:44,369 INFO  Accepting HTTP socket
+2016-08-23 00:19:44,369 INFO  Accepted HTTP socket
+2016-08-23 00:22:49,502 FATAL CRASH HANDLED; Application has crashed due to [SIGINT] signal
+2016-08-23 00:22:49,502 WARN  Aborting application. Reason: Fatal log at [./../lib/third_party/easylogging++.h:5627]
+2016-08-23 00:22:54,187 INFO  EXECUTING
+2016-08-23 00:22:54,187 ERROR BIND ERROR 9
+2016-08-23 00:22:54,187 ERROR LISTEN ERROR 9
+2016-08-23 00:22:54,188 INFO  Accepting HTTP socket
+2016-08-23 00:22:54,188 INFO  Accepted HTTP socket
+2016-08-23 00:23:12,165 INFO  EXECUTING
+2016-08-23 00:23:12,166 INFO  Accepting HTTP socket
+2016-08-23 00:23:12,166 INFO  Accepted HTTP socket
+2016-08-23 00:26:36,907 FATAL CRASH HANDLED; Application has crashed due to [SIGINT] signal
+2016-08-23 00:26:36,907 WARN  Aborting application. Reason: Fatal log at [./../lib/third_party/easylogging++.h:5627]
+2016-08-23 00:27:10,229 INFO  EXECUTING
+2016-08-23 00:27:10,230 INFO  Accepting HTTP socket
+2016-08-23 00:27:10,230 INFO  Accepted HTTP socket
+2016-08-23 00:27:18,186 FATAL CRASH HANDLED; Application has crashed due to [SIGINT] signal
+2016-08-23 00:27:18,186 WARN  Aborting application. Reason: Fatal log at [./../lib/third_party/easylogging++.h:5627]
+2016-08-23 00:31:24,318 INFO  EXECUTING
+2016-08-23 00:31:24,319 ERROR BIND ERROR 22
+2016-08-23 00:31:24,319 INFO  Accepting HTTP socket
+2016-08-23 00:31:24,319 INFO  Accepted HTTP socket
+2016-08-23 00:31:31,168 FATAL CRASH HANDLED; Application has crashed due to [SIGINT] signal
+2016-08-23 00:31:31,168 WARN  Aborting application. Reason: Fatal log at [./../lib/third_party/easylogging++.h:5627]
+2016-08-23 00:36:48,684 INFO  EXECUTING
+2016-08-23 00:36:48,685 INFO  Accepting HTTP socket
+2016-08-23 00:36:48,685 INFO  Accepted HTTP socket
+2016-08-23 00:39:00,115 FATAL CRASH HANDLED; Application has crashed due to [SIGINT] signal
+2016-08-23 00:39:00,115 WARN  Aborting application. Reason: Fatal log at [./../lib/third_party/easylogging++.h:5627]
+2016-08-23 00:39:03,760 INFO  EXECUTING
+2016-08-23 00:39:03,760 ERROR BIND ERROR 48
+2016-08-23 00:39:03,761 INFO  Accepting HTTP socket
+2016-08-23 00:39:03,761 INFO  Accepted HTTP socket
+2016-08-23 00:39:06,808 FATAL CRASH HANDLED; Application has crashed due to [SIGINT] signal
+2016-08-23 00:39:06,808 WARN  Aborting application. Reason: Fatal log at [./../lib/third_party/easylogging++.h:5627]
+2016-08-23 00:39:10,535 INFO  EXECUTING
+2016-08-23 00:39:10,535 ERROR BIND ERROR 48
+2016-08-23 00:39:10,536 INFO  Accepting HTTP socket
+2016-08-23 00:39:10,536 INFO  Accepted HTTP socket
+2016-08-23 00:39:12,408 FATAL CRASH HANDLED; Application has crashed due to [SIGINT] signal
+2016-08-23 00:39:12,408 WARN  Aborting application. Reason: Fatal log at [./../lib/third_party/easylogging++.h:5627]
+2016-08-23 00:40:35,517 INFO  EXECUTING
+2016-08-23 00:40:35,518 INFO  Accepting HTTP socket
+2016-08-23 00:40:35,518 INFO  Accepted HTTP socket

@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MessangesView.qml</file>
+        <file>LoginPage.qml</file>
+        <file>ContactPreferences.qml</file>
+        <file>GroupList.qml</file>
+        <file>ChatPage.qml</file>
+    </qresource>
+</RCC>

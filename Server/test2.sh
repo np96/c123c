@@ -1,0 +1,1 @@
+g++ -std=c++11 main.cpp ../lib/ServerThread.cpp ../lib/ -Wall -o hello -I /usr/local/Cellar/hiredis/0.13.3/include/ -I /usr/local/Cellar/libevent/2.0.22/include/ -L /usr/local/Cellar/hiredis/0.13.3/lib -L /usr/local/Cellar/libevent/2.0.22/lib/ -L /usr/local/opt/caf -lcaf_core -levent_core
